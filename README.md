@@ -1,4 +1,4 @@
-#   hostlocAuto
+#   hostloc Auto
 action变量:
 
 `HOSTLOC_USERNAME`: hostloc 登录用户名/邮箱
