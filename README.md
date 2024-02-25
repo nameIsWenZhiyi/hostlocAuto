@@ -1,5 +1,5 @@
-# hostlocAuto
-action变量:
+#    hostl oc Auto
+ action变量 :
 
 `HOSTLOC_USERNAME`: hostloc 登录用户名/邮箱
 
